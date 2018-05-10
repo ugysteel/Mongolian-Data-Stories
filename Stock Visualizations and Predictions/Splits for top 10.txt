@@ -1,3 +1,0 @@
-TTL - An each stock was split into 100 on July 29, 2011.
-APU - An each stock was split into 100 on July 15, 2008 and 10 on 20 June 2016 .
-SUU - An each stock was split into 1000 on June 20, 2016.
