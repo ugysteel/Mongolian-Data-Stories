@@ -1,3 +1,3 @@
-# Data-Visualization
+# Mongolian Data Stories
 
-Readme
+Code, data, and outputs for Mongolian Data Stories, a Medium publication. 
